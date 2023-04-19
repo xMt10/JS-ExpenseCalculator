@@ -129,3 +129,15 @@ input {
   width: 35px;
   height: 35px;
 }
+.harcama h2:nth-child(2) {
+  color: red;
+}
+.paid {
+  opacity: 0.7;
+}
+.paid h2:nth-child(2) {
+  color: green;
+}
+.paid h2:nth-child(1) {
+  text-decoration: line-through;
+}
