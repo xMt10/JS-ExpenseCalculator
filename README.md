@@ -8,5 +8,5 @@
 </ul>
 <h2>About Expense Calculator</h2>
 <p>My expense calculator app has been madethat you can control your expensesin a simpler way. You can see Paid, Unpaid or all together. You can also delete the elements you want to delete and subtract them from the total.</p>
-<a href="">preview</a><br><br>
+<a href="https://expensecalculatorr.netlify.app/">preview</a><br><br>
 <img src="app.gif" alt="">
